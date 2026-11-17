@@ -1,0 +1,8 @@
+*
+!/.gitignore
+!/assets/
+/assets/*
+!/README.en.md
+!/README.md
+!/assets/atlas-geral.jpg
+!/assets/atlas-interior.jpg
