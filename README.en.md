@@ -1,5 +1,9 @@
 # CAE · Spatial dashboard
 
+**In development**<br>
+Platform created: November 9, 2026 · Last recorded update: November 12, 2026<br>
+<sub>Presentation updated on November 17, 2026.</sub>
+
 **A visual dashboard that uses space to organize ideas, projects and their relationships.**
 
 I created this project for CAE to explore a visual way of organizing events, commitments, people and initiatives. The idea is to locate an area of work, move closer to it and understand how its parts connect to the whole.

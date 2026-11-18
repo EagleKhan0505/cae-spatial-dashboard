@@ -1,5 +1,9 @@
 # CAE · Dashboard espacial
 
+**Em desenvolvimento**<br>
+Criação da plataforma: 09/11/2026 · Última atualização registrada: 12/11/2026<br>
+<sub>Apresentação atualizada em 17/11/2026.</sub>
+
 **Um dashboard visual que usa o espaço para organizar ideias, projetos e as relações entre eles.**
 
 Criei este projeto para o CAE pensando em uma forma de ordenar eventos, compromissos, pessoas e iniciativas que fizesse sentido visualmente. A proposta é poder localizar uma área de atuação, aproximar-se dela e entender como cada parte se conecta ao conjunto.
